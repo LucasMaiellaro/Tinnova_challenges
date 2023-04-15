@@ -1,6 +1,6 @@
 # Tinnova Challenges
 
-Esse repositório contém os 4 desafios lógicos propostos no documento.
+Este repositório contém os 4 desafios lógicos propostos no documento.
 
 ## Run
 Em cada diretório haverá uma classe com um método main(). Basta rodar este método em cada um dos diretórios para rodar os programas correspondentes com cada desafio.
